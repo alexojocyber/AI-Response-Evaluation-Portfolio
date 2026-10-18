@@ -55,7 +55,7 @@ python scripts/verify_002_extended.py   # 7 edge-case tests for the hardened ver
 python scripts/make_006_pdf.py          # rebuilds the hidden-injection test PDF (needs reportlab)
 ```
 
-The two verify scripts use synthetic, documentation-range log lines only.
+The two verify scripts use synthetic log lines only.
 
 ## About me
 
