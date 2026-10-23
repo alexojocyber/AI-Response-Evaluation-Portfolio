@@ -67,3 +67,4 @@ I'm Alex Ojo, a cybersecurity student with four years of enterprise technical su
 - Portfolio: [alexojocyber.github.io](https://alexojocyber.github.io)
 - GitHub: [github.com/alexojocyber](https://github.com/alexojocyber)
 - LinkedIn: [linkedin.com/in/alex-ojo-ab9252185](https://www.linkedin.com/in/alex-ojo-ab9252185)
+- See also: my response-safety rubric and dataset, [ai-response-safety-evaluator](https://github.com/alexojocyber/ai-response-safety-evaluator), a three-axis framework with 21 labelled examples.
